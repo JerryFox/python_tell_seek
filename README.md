@@ -1,5 +1,5 @@
 # python_tell_seek
-black magic in reading file
+black magic in file reading 
 
 tell() function returns value far behind the length of a file. 
 
